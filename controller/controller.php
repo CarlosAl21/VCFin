@@ -1,7 +1,7 @@
 <?php
 class McvController{
     function plantilla(){
-        include '\*\template.php';
+        include '/*/views/template.php';
     }
 
     function enlacesPaginasController(){
